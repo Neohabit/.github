@@ -27,14 +27,6 @@ Nosso objetivo é centralizar a gestão condominial em um sistema acessível, vi
 - Painel financeiro (despesas, receitas e inadimplência)
 - Acesso com autenticação e permissões por perfil
 
-## 🔧 Tecnologias base
-
-- **React + Next.js** — Front-end moderno e performático
-- **TypeScript** — Tipagem forte para segurança e escalabilidade
-- **Styled Components** — Estilização com design consistente
-- **Zustand** — Gerenciamento de estado leve e simples
-- **React Query** — Sincronização de dados com APIs
-
 ## 🌐 Acesse
 
 - Site: [https://neohabit.com.br](https://neohabit.com.br)
